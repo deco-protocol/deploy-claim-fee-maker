@@ -4,3 +4,6 @@
 [submodule "lib/dss-gate"]
 	path = lib/dss-gate
 	url = https://github.com/deco-protocol/dss-gate
+[submodule "lib/claim-fee-maker"]
+	path = lib/claim-fee-maker
+	url = https://github.com/deco-protocol/claim-fee-maker
