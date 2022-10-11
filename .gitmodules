@@ -7,3 +7,6 @@
 [submodule "lib/claim-fee-maker"]
 	path = lib/claim-fee-maker
 	url = https://github.com/deco-protocol/claim-fee-maker
+[submodule "lib/dss-interfaces"]
+	path = lib/dss-interfaces
+	url = https://github.com/makerdao/dss-interfaces
